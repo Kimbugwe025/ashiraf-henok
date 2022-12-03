@@ -1,0 +1,15 @@
+#img-div {
+    width: auto;
+    height: auto;
+    max-width: 900px;
+    display: block;
+    text-align: center;
+    object-fit: fill;
+    margin: auto;
+  }
+  #image {
+    width: 22vw;
+    height: auto;
+    display: block;
+    margin: auto;
+  }
